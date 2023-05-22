@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
