@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysoft&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysoft" /> </p>
 
-- 🌱 I’m currently learning **Flask and django**
+- 🌱 I’m currently learning **Flask and DSA (Data Structures And Algorithms) using Python**
 
-- ⚡ Fun fact **I am Creator**
+- ⚡ Fun fact **Creating projects is what I do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
