@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysoft&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysoft" /> </p>
 
-- 🌱 I’m currently learning **Django and DSA (Data Structures And Algorithms) using Python**
+- 🌱 I’m Creating Spring Boot Application **Using Restful APIs and Spring Security**
 
 - ⚡ Fun fact **Creating projects is what I do.**
 
