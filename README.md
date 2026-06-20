@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Chinmay Joshi</h1>
-<h3 align="center">A Passionate Software Engineer From India</h3>
+<h3 align="center">
+Software Developer | C# & .NET Enthusiast | Azure Cloud Learner
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="chinmaysoft"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysoft&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysoft" /> </p>
+- 🔭 Building Backend Applications using C# and ASP.NET Core
 
-- 🌱 I’m Creating Spring Boot Application **Using Restful APIs and Spring Security**
+- 🌱 Currently learning Azure Cloud and .NET Development
 
-- ⚡ Fun fact **Creating projects is what I do.**
+- ☁️ Preparing for Microsoft Certifications:
+  - AZ-900
+  - AZ-104
+  - AZ-204
+
+- 🗄️ Experienced with Oracle SQL Developer and Database Design
+
+- 🔌 Working with REST APIs, Postman, Swagger and SoapUI
+
+- 🐍 Have experience developing applications using Python
+
+- ⚡ Passionate about Cloud Computing, Backend Development and Problem Solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,10 +29,62 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+<p align="left">
+
+<a href="https://learn.microsoft.com/dotnet">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/database">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.soapui.org">
+<img src="https://avatars.githubusercontent.com/u/1644671?s=200&v=4" alt="SoapUI" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaysoft&show_icons=true&locale=en&layout=compact" alt="chinmaysoft" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaysoft&show_icons=true&locale=en" alt="chinmaysoft" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaysoft&" alt="chinmaysoft" /></p>
+
+## 📈 Contribution Graph
+
+[![Chinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmaysoft&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
